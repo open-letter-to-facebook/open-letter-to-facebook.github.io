@@ -116,7 +116,7 @@ a {
   margin-bottom: 1rem;
   font-weight: normal;
   color: #159957; }
-  
+
 .main-content p {
   margin-bottom: 1em; }
 
@@ -161,3 +161,9 @@ a {
   .main-content {
     padding: 2rem 1rem;
     font-size: 1rem; } }
+
+
+.highlight{
+  font-style: normal;
+  font-weight: bold;
+}
